@@ -44,3 +44,12 @@ Make sure: you return the fucntion with 3 values:
 
 
 
+
+## Interview_det.py
+
+This code is made using the template.py file by making changes in the conditions part. The conditions are added as follow:
+
+![image](https://user-images.githubusercontent.com/74321084/203642305-909369ee-1be7-4891-a381-ba259d8dd933.png)
+
+
+This is how the conditions are added and the pose is detected.
