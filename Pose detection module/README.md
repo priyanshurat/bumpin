@@ -2,6 +2,8 @@
 
 Hey, welcome to the pose detection module of bumpin'.
 
+NOTE: make sure the room is well-lit before you run these codes.
+
 ## Pre-requisites
 Make sure the following libraries are installed:
 1) openCV
@@ -43,7 +45,7 @@ Make sure: you return the fucntion with 3 values:
 3) message: The text you want to display on screen.
 
 
-
+This file makes the code suitable for OPEN SOURCE.
 
 ## Interview_det.py
 
@@ -53,3 +55,12 @@ This code is made using the template.py file by making changes in the conditions
 
 
 This is how the conditions are added and the pose is detected.
+
+Sample:
+
+![image](https://user-images.githubusercontent.com/74321084/203642883-ffbde2ad-aed9-41f8-82c8-30f78ac783ba.png)
+
+
+The accuracy compares the good frames with the number of bad frames and give the percentage. 
+For an instance, if you practice a 5 minutes interview, and your posture was correct for 4 minutes, then you'll get an accuracy of 80%.
+
