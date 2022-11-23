@@ -47,7 +47,7 @@ Make sure: you return the fucntion with 3 values:
 
 This file makes the code suitable for OPEN SOURCE.
 
-## Interview_det.py
+## Example 1: Interview_det.py
 
 This code is made using the template.py file by making changes in the conditions part. The conditions are added as follow:
 
@@ -64,3 +64,6 @@ Sample:
 The accuracy compares the good frames with the number of bad frames and give the percentage. 
 For an instance, if you practice a 5 minutes interview, and your posture was correct for 4 minutes, then you'll get an accuracy of 80%.
 
+## Example 2: speech_detect.py
+
+Similar to the last one this detects the public speaking posture of the user.
